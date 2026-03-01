@@ -83,3 +83,6 @@ Elie Makoda Kowo Manoufo
 
 Java Web Development Assignment
 
+![1772368853323](image/README/1772368853323.png)
+![1772368951569](image/README/1772368951569.png)
+![1772369001983](image/README/1772369001983.png)
