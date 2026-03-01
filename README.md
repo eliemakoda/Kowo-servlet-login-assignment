@@ -79,7 +79,7 @@ KOWOLoginProject
 
 ## 👤 Author
 
-Elie Makoda Kowo Manoufo
+Elie Makoda Kowo Manfouo
 
 Java Web Development Assignment
 
